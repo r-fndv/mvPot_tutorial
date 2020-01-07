@@ -12,6 +12,8 @@ Special attention is given to a process derived from log-Gaussian random functio
 Parametric inference is done using the efficient implementation of the censored likelihood function (Wadsworth and Tawn, 2014)  available in the `R` package `mvPot`.
 We also present an alternative procedure based on the gradient score (de Fondeville and Davison, 2018) tractable in much higher dimensions.
 
+These data (Donlon et al., 2012) were provided by GHRSST, Met Office and CMEMS.
+
 ## Required Software
 
 * Mandatory `R` packages: `sp`, `ggplot2`,`evd`, `mvPot`.
@@ -33,6 +35,8 @@ You can also find instructions for MaxOS and Windows on the same website. By def
 Once this is done, you can start Jupyter by just typing `jupyter notebook` in a console (preferentially from the folder containing the notebook). This will open a page on your web browser with Jupyter interface.
 
 ## References
+
+C.J. Donlon, M. Martin,J.D. Stark, J. Roberts-Jones, E. Fiedler, W. Wimmer. The operational sea surface temperature and sea ice analysis (OSTIA) system. *Remote Sensing Environ.*, 116 (2012), pp. 140-158 http://dx.doi.org/10.1016/j.rse.2010.10.017".
 
 de Fondeville, R. and Davison, A. C. (2018). High-dimensional Peaks-over- threshold Inference. *Biometrika*, 105(3):575–592.
 
