@@ -36,7 +36,7 @@ Once this is done, you can start Jupyter by just typing `jupyter notebook` in a 
 
 ## References
 
-C.J. Donlon, M. Martin,J.D. Stark, J. Roberts-Jones, E. Fiedler, W. Wimmer. The operational sea surface temperature and sea ice analysis (OSTIA) system. *Remote Sensing Environ.*, 116 (2012), pp. 140-158 http://dx.doi.org/10.1016/j.rse.2010.10.017".
+C.J. Donlon, M. Martin,J.D. Stark, J. Roberts-Jones, E. Fiedler, W. Wimmer. The operational sea surface temperature and sea ice analysis (OSTIA) system. *Remote Sensing Environ.*, 116 (2012), pp. 140-158.
 
 de Fondeville, R. and Davison, A. C. (2018). High-dimensional Peaks-over- threshold Inference. *Biometrika*, 105(3):575–592.
 
