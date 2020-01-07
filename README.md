@@ -15,15 +15,14 @@ We also present an alternative procedure based on the gradient score (de Fondevi
 ## Required Software
 
 * Mandatory `R` packages: `sp`, `ggplot2`,`evd`, `mvPot`.
-* Recommended installations:
-  * Suggested `R` packages: `ggmap`. To install the last version use:
+* Suggested `R` packages: `ggmap`. To install the last version use:
 ```devtools::install_github("dkahle/ggmap")```
 To download background maps and use  `ggmap`, you will need a google API key. To obtain one, you can find instructions here:
 ```
 \href{https://developers.google.com/maps/documentation/geocoding/get-api-key}{https://developers.google.com/maps/documentation/geocoding/get-api-key} 
 ```
 Once you get an API key, copy/paste it in the file `Code/google_api_key.txt`.
-   * For easier presentation, the workshop is given with Jupyter Notebook. To get Jupyter, you can simply install Anaconda; instructions for linux can be found here:
+* For easier presentation, the workshop is given with Jupyter Notebook. To get Jupyter, you can simply install Anaconda; instructions for linux can be found here:
 ```
 \href{http://docs.anaconda.com/anaconda/install/linux/}{http://docs.anaconda.com/anaconda/install/linux/} 
 ```
